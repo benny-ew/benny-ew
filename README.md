@@ -1,9 +1,9 @@
-I am a 20 years experienced PHP programmer and web developer since the year 2000 and have become an IT consultant and developer since then. I was creating my framework before the famous framework such as Symfony, CodeIgniter and Laravel were created.  But in recent years, I developed REST API using Laravel and maximize the power of OOP in PHP and vue as a front-end framework. 
- 
-I was mostly acting as an all-round, single player and full stack developer that prepares documents, codes, and tests all by myself. Since the year 2015, I also learn to use VM and containers in the development process, thus I learn vagrant and docker. 
- 
-In 2014 I joined a technology solution company as an implementation engineer. I worked with a development team and created solutions for several Indonesia water supply companies. This team developed billing, customer service, and other solutions, and also network and data center solutions. We use C# MVC framework as base code and the code was saved in our Gitlab server.
+I am a highly experienced PHP programmer and web developer with 20 years of expertise, starting from the year 2000. Over the years, I have evolved into a skilled IT consultant and developer. Before the emergence of popular frameworks like Symfony, CodeIgniter, and Laravel, I had already created my own framework. Recently, I have focused on developing REST APIs using Laravel and leveraging the power of OOP in PHP, combined with Vue.js or React as a front-end framework.
 
-Actually I created my solution company, named Simetris, at the end of 2019. But this pandemic made my company unable to grow. All projects were postponed until now, so I have to look for  another job.
- 
-But this year,I created my own framework to build business apps with the usage of Laravel and VueJS. I like to implement the “separation of concern” principle, with several layers, that are controller, service, repository and model. Actually I created this framework in order to make the development could be conducted with a multi player team - not like i did. I put the skeleton of this framework on my github (benny-ew).
+My role has primarily been that of an all-round, single-player, full-stack developer, handling documentation, coding, and testing independently. Since 2015, I have incorporated the use of virtual machines and containers in my development process, gaining proficiency in Vagrant and Docker.
+
+In 2014, I joined a technology solution company as an Implementation Engineer, working with a development team to create solutions for several Indonesian water supply companies. This team developed billing, customer service, network, and data center solutions, utilizing the C# MVC framework and managing code in GitLab.
+
+In late 2019, I founded my own technology solution company, Simetris. However, the pandemic impacted our growth, leading to project postponements. As a result, I am currently seeking new job opportunities.
+
+This year, I developed a new framework for building business applications using Laravel and VueJS or NextJS. This framework follows the “Separation of Concerns” principle and features several layers, including Controller, Service, Repository, and Model. The framework is designed for collaborative, multi-player team development and the skeleton of this framework is available on my GitHub (benny-ew).
