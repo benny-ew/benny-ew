@@ -1,9 +1,47 @@
-I am an advanced PHP coder / Web developer and have been very strong with PHP and web programming for over 20 years, since 2000. I've been doing IT consulting and development for many years and have become worth pretty good at it. I already made my own framework before the famous ones like Symfony, Codeigniter, Laravel. Lately, I’ve been working on REST APIs building, with the latest of Laravel to work with and shaping both the OOP power of PHP and Vue. js or React front-end framework.
+### Hi, I'm Benny Willyanto 👋
 
-I am mostly a one-man-fits-all full-stack developer, doing docs/coding/testing by myself. I have learned how to use VMs and containers for development since 2015 (Vagrant and Docker, so whad'ya know).
+**Backend / Fullstack Developer · GIS Specialist · Infrastructure Engineer**
 
-I started employment in 2014 at a tech solution company as an Implementation Engineer and was on the ground with a dev team building solutions for multiple water supply companies in Indonesia. This team built out billing, customer service, network, data center solutions using C# MVC, and they manage their code in GitLab.
+Building things with code since 2000. I started out writing my own PHP frameworks before Laravel was a thing, and over the past 25 years I've evolved from network admin to full-stack developer to IT consultant — mostly working solo, which means I've touched every layer: docs, code, infra, and the occasional 3 AM server reboot.
 
-My own tech solution business, Simetris, I cofounded just at the end of 2019. But the pandemic affected us, it affected our growth, we had projects deferred. Consequently, I am on the look out for a new job.
+---
 
-This year I created a pattern for making business application using Laravel and VueJS or NextJS. This framework is based on the “Separation of Concerns” principle and has a number of layers, namely Controller, Service, Repository, and Model. It was built for co-op multiplayer/team development and the skeleton is on my github (benny-ew).
+### What I do
+
+- **Web platforms** — Laravel, Next.js, SvelteKit, ElysiaJS (Bun), Vue.js
+- **GIS & spatial systems** — PostGIS, MapLibre GL JS, Martin tile server, QGIS, QField, GeoServer, MapStore
+- **Infrastructure** — Proxmox virtualization, PostgreSQL HA clusters, Docker, Wazuh SIEM, Grafana monitoring stacks
+- **Identity & auth** — Keycloak OIDC, NextAuth, role-based access control
+
+I've delivered 20+ GIS implementation projects for water utilities across Indonesia, built plantation intelligence dashboards for provincial governments, and set up high-availability datacenter infrastructure from scratch.
+
+---
+
+### Projects I'm proud of
+
+| Project | What it does | Stack |
+|---------|-------------|-------|
+| [**PlantIQ**](https://github.com/benny-ew) | Plantation intelligence dashboard — 10 modules covering legalitas, deforestation alerts, certification tracking, supply chain, and budget tracing with Sankey diagrams | Bun, SvelteKit, ElysiaJS, PostGIS, MapLibre, Martin, Keycloak |
+| [**PDAM GIS**](https://github.com/benny-ew) | End-to-end GIS for water utilities — field data collection to WebGIS dashboards | QGIS, QField, PostgreSQL, GeoServer, MapStore |
+| [**Virtualization Cluster**](https://github.com/benny-ew) | HA datacenter with Proxmox, PostgreSQL clustering, SQL Server Always On, SIEM, full monitoring stack | Proxmox, Ubuntu, Wazuh, Grafana, Prometheus, Loki |
+| [**Cranberry**](https://github.com/benny-ew) | Dashboard monitoring for e-STDB, PSR, Dana STDB, ISPO — government plantation management | ElysiaJS, SvelteKit, PostGIS, Keycloak |
+
+---
+
+### Work
+
+- **System Information Expert** @ Tirta Kahuripan (2023–2026) — datacenter redesign, virtualization cluster, command center dashboard
+- **Solution Architect** @ Aceh Plantation Monitoring (2023–2025) — PlantIQ platform
+- **Professional IT Consultant** (2020–present) — GIS implementation, bespoke software, network design
+- **Application Engineer** @ CV. Tiza Solution (2013–2020) — GIS for 20+ PDAM water utilities
+- **IT Coordinator** @ ICAPRD (2003–2011) — network design, software development, research IT infrastructure
+
+---
+
+### Currently
+
+Building GIS dashboards and data platforms. Exploring Bun + SvelteKit for full-stack development. Always looking for interesting problems to solve.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benny-willyanto/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benny.willyanto@gmail.com)
+[![Website](https://img.shields.io/badge/Website-mapped.id-333?style=for-the-badge)](https://mapped.id)
