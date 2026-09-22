@@ -21,17 +21,17 @@ I've delivered 20+ GIS implementation projects for water utilities across Indone
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [**PlantIQ**](https://github.com/benny-ew) | Plantation intelligence dashboard — 10 modules covering legalitas, deforestation alerts, certification tracking, supply chain, and budget tracing with Sankey diagrams | Bun, SvelteKit, ElysiaJS, PostGIS, MapLibre, Martin, Keycloak |
-| [**PDAM GIS**](https://github.com/benny-ew) | End-to-end GIS for water utilities — field data collection to WebGIS dashboards | QGIS, QField, PostgreSQL, GeoServer, MapStore |
+| [**PlantIQ**](https://plantiq.mapped.id) | Plantation intelligence dashboard — 10 modules covering legalitas, deforestation alerts, certification tracking, supply chain, and budget tracing with Sankey diagrams | Bun, SvelteKit, ElysiaJS, PostGIS, MapLibre, Martin, Keycloak |
+| [**GIS for Water Company**](https://github.com/benny-ew) | End-to-end GIS for water utilities — field data collection to WebGIS dashboards | QGIS, QField, PostgreSQL, GeoServer, MapStore |
 | [**Virtualization Cluster**](https://github.com/benny-ew) | HA datacenter with Proxmox, PostgreSQL clustering, SQL Server Always On, SIEM, full monitoring stack | Proxmox, Ubuntu, Wazuh, Grafana, Prometheus, Loki |
-| [**EvaFlow**](https://github.com/benny-ew) | Monitoring & evaluation platform for landscape conservation programs — KPI tracking, donor reporting, activity dashboards for BoD and field managers | Next.js, Laravel, MariaDB, Keycloak, Nginx |
+| [**EvaFlow**](https://evaflow.mapped.id) | Monitoring & evaluation platform for landscape conservation programs — KPI tracking, donor reporting, activity dashboards for BoD and field managers | Next.js, Laravel, PostgreSQL, Keycloak, Nginx |
 
 ---
 
 ### Work
 
 - **System Information Expert** @ Tirta Kahuripan (2023–2026) — datacenter redesign, virtualization cluster, command center dashboard
-- **Solution Architect** @ Aceh Plantation Monitoring (2023–2025) — PlantIQ platform
+- **Solution Architect** @ IDH (2026) — PlantIQ Plantation Intelligence and Monitoring
 - **Professional IT Consultant** (2020–present) — GIS implementation, bespoke software, network design
 - **Application Engineer** @ CV. Tiza Solution (2013–2020) — GIS for 20+ PDAM water utilities
 - **IT Coordinator** @ ICAPRD (2003–2011) — network design, software development, research IT infrastructure
